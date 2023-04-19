@@ -1,6 +1,6 @@
 # Sessile Organism Range
 
-Python-based ArcGIS toolbox for assessing the ranges of plant species or other sessile organisms.
+Python-based ArcGIS toolbox for assessing the ranges of species (i.e., NOT the home ranges of individuals).
 
 ## Getting Started
 
