@@ -1,4 +1,4 @@
-# Sessile Organism Range
+# Species Range
 
 Python-based ArcGIS toolbox for assessing the ranges of species (i.e., NOT the home ranges of individuals).
 
